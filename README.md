@@ -25,5 +25,5 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ImageProcessorAPI.git
+   git clone https://github.com/Kunalkrsingh-10/ImageProcessorAPI.git
    cd ImageProcessorAPI
